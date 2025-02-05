@@ -1,0 +1,49 @@
+name: spencer.quitzon
+description: Function-based
+version: 0.0.1
+author: hgd1pkab.uemr3yrb@svecactc.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: spencerquitzon
+  parentArtefactID: team1738765102910
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-05 14:18:53'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-05 14:18:54'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-05T14:18:54.818966Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1526295436'
+  createdAt: '2025-02-05T14:18:54.818966Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
